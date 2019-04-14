@@ -1,0 +1,25 @@
+.dayData{
+    border:0 !important;
+    
+}
+li{
+    color: blueviolet;
+    list-style-type: none;
+    opacity: .5;
+    height: 40px;
+    
+}
+
+.table  {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+td{
+    padding: 6px !important;
+}
+@media (max-width: 576px) { 
+    
+    .table{
+       background-color: rgb(49, 4, 4) !important;
+   } 
+ }

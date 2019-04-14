@@ -1,0 +1,9 @@
+.fas{
+    font-size: 30px;
+    color:#F6637F;
+}
+.search{
+    border-radius: 40px !important;
+    width: 150px !important;
+    box-shadow: none !important;
+}

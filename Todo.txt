@@ -1,0 +1,10 @@
+1. Complete the whole design
+
+2. Get all the current weahter info and show in the UI.
+
+3. Get all the 5 days weather data and show in UI.
+
+
+2. Current Weather details:
+
+a: current date, b: current temp, c: location, d: satus, e: humidity, f: pressure, g: air speed, h: cloud

@@ -1,0 +1,40 @@
+.gradient{
+    background: #FF416C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FF4B2B, #FF416C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    opacity: .8;     
+    
+}
+.title{
+    font-weight: 600;
+    color: #9796f0;
+}
+.container{
+    font-weight: 500;
+    font-family: 'Ropa Sans', sans-serif;
+    color: #EBEEF1;
+    height:700px;
+    
+}
+.mainContainer{
+    opacity: .5;
+}
+.secLoc{
+    margin-top: 300px !important;
+}
+
+.weatherApp{
+    padding: 50px 0 50px 0;
+}
+
+
+
+  @media only screen and (max-width : 414px) {
+    .weatherApp{
+        padding:  0px 0px 0px 0px !important;
+        
+    }
+    .secLoc{
+        margin-top: 100px !important;
+    }
+}

@@ -1,0 +1,13 @@
+.static{
+    font-size: 40px;
+    color: #F6637F;
+}
+.statisticsSec{
+    opacity: .5;
+}
+
+@media only screen and (max-width: 600px){
+    .static{
+        font-size: 30px;
+    }
+}

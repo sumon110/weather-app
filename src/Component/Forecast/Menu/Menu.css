@@ -1,0 +1,7 @@
+.menuBar:hover{
+    color:#F6637F !important;
+    border-bottom: 2px solid #F6637F;
+}
+.menuBar{
+    opacity: .5;
+}
